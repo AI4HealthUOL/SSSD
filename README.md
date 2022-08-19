@@ -23,7 +23,7 @@ Visit the source directory to get datasets download and experiments reproducibil
 
 
 ## Our proposed $SSSD^{S4}$ model architecture:
-![alt text](https://github.com/AI4HealthUOL/SSSD/blob/main/reports/SSSDS4architecture.png?style=centerme)
+![alt text](https://github.com/AI4HealthUOL/SSSD/blob/main/reports/updated_architecture.png?style=centerme)
 
 
 ### Please cite our publication if you found our research to be helpful.
