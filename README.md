@@ -8,6 +8,9 @@ Visit the source directory to get datasets download and experiments reproducibil
 
 ## $SSSD^{S4}$ robustness on diverse scenarios.
 
+## Our proposed $SSSD^{S4}$ model architecture:
+![alt text](https://github.com/AI4HealthUOL/SSSD/blob/main/reports/updated_architecture.png?style=centerme)
+
 ### Random Missing
 ![alt text](https://github.com/AI4HealthUOL/SSSD/blob/main/reports/plots_merged_001.png?style=centerme)
 
@@ -21,9 +24,6 @@ Visit the source directory to get datasets download and experiments reproducibil
 ![alt text](https://github.com/AI4HealthUOL/SSSD/blob/main/reports/plots_merged_004.png?style=centerme)
 
 
-
-## Our proposed $SSSD^{S4}$ model architecture:
-![alt text](https://github.com/AI4HealthUOL/SSSD/blob/main/reports/updated_architecture.png?style=centerme)
 
 
 ### Please cite our publication if you found our research to be helpful.
