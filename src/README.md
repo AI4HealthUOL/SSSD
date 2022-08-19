@@ -17,7 +17,7 @@ python3 get_data.py
 
 
 
-## $SSSD^{S4}$, $SSSD^{SA}$ 
+## $SSSD^{S4}$ and $SSSD^{SA}$ 
 can be accesed through the command line, use their respective configuration files from the directory config/ 
 and loading the datasets into the train.py and inference.py files. 
 
