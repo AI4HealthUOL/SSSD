@@ -1,0 +1,45 @@
+{   
+    "diffusion_config":{
+        "T": 200,
+        "beta_0": 0.0001,
+        "beta_T": 0.02
+    },
+    "sashimi_config": {
+        "in_channels": 12, 
+        "out_channels":12,
+        "d_model": 128, 
+        "n_layers":6,
+        "diffusion_step_embed_dim_in": 128,
+        "diffusion_step_embed_dim_mid": 512,
+        "diffusion_step_embed_dim_out": 512,
+        "label_embed_dim": 128,
+        "label_embed_classes": 71,
+        "bidirectional":1,
+        "s4_lmax":1000,
+        "s4_d_state":64,
+        "s4_dropout":0.0,
+        "s4_bidirectional":1
+    },
+    "train_config": {
+        "output_directory": "/",
+        "ckpt_iter": "max",
+        "iters_per_ckpt": 2000,
+        "iters_per_logging": 100,
+        "n_iters": 200000,
+        "learning_rate": 2e-4,
+        "batch_size_per_gpu": 80,
+        "only_generate_missing": 1,
+        "use_model": 2,
+        "masking": "bm",
+        "missing_k": 200
+    },
+    "trainset_config":{
+        "data_path": "/",
+        "segment_length": 1000,
+        "sampling_rate": 100
+    },
+    "gen_config":{
+        "output_directory": "/",
+        "ckpt_path": "//"
+    }
+}
