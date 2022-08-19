@@ -9,16 +9,16 @@ Visit the source directory to get datasets download and experiments reproducibil
 ## $SSSD^{S4}$ robustness on diverse scenarios.
 
 ### Random Missing
-![alt text](https://github.com/AI4HealthUOL/SSSD/blob/main/reports/plots_merged-1.png?style=centerme)
+![alt text](https://github.com/AI4HealthUOL/SSSD/blob/main/reports/plots_merged_001.png?style=centerme)
 
 ### Missing not at random
-![alt text](https://github.com/AI4HealthUOL/SSSD/blob/main/reports/plots_merged-2.png?style=centerme)
+![alt text](https://github.com/AI4HealthUOL/SSSD/blob/main/reports/plots_merged_002.png?style=centerme)
 
 ### Black-out missing
-![alt text](https://github.com/AI4HealthUOL/SSSD/blob/main/reports/plots_merged-3.png?style=centerme)
+![alt text](https://github.com/AI4HealthUOL/SSSD/blob/main/reports/plots_merged_003.png?style=centerme)
 
 ### Forecast
-![alt text](https://github.com/AI4HealthUOL/SSSD/blob/main/reports/plots_merged-4.png?style=centerme)
+![alt text](https://github.com/AI4HealthUOL/SSSD/blob/main/reports/plots_merged_004.png?style=centerme)
 
 
 
