@@ -5,8 +5,8 @@ pip install -r requirements.txt
 
 
 ## Datasets
-* Visit the docs/Experiments/ directory to find the pre-processing steps or instructions of each of them, either we processed them or collected from providers. 
-* Visit the docs/PTB directory if you would like to use the PTB-XL ECG class-labels and other metadata for your research.
+* Visit the docs/instructions/ directory to find the pre-processing steps or instructions of each of them, either we processed them or collected from providers. 
+* Visit the docs/instructions/PTB/ if you would like to use the PTB-XL ECG class-labels and other metadata for your research.
 * By convenience, all the dataset implemented in our experiment are available in [this link](https://mega.nz/folder/kT91jYpI#97GyTkVVUk97fzs1Oy4nBQ).
 * Similarly you can download and store them with the next command. Allow 6.28 GB.
 ```
