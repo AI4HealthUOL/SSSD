@@ -30,7 +30,17 @@ Visit the source directory to get datasets download and experiments reproducibil
 ### Please cite our publication if you found our research to be helpful.
 
 ```bibtex
-@misc{}
+@misc{https://doi.org/10.48550/arxiv.2208.09399,
+  doi = {10.48550/ARXIV.2208.09399},
+  url = {https://arxiv.org/abs/2208.09399},
+  author = {Alcaraz, Juan Miguel Lopez and Strodthoff, Nils},
+  keywords = {Machine Learning (cs.LG), Machine Learning (stat.ML), FOS: Computer and information sciences, FOS: Computer and information sciences},
+  title = {Diffusion-based Time Series Imputation and Forecasting with Structured State Space Models},
+  publisher = {arXiv},
+  year = {2022},
+  copyright = {arXiv.org perpetual, non-exclusive license}
+}
+
 ```
 
 ### Acknowledgments
