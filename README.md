@@ -45,4 +45,4 @@ Visit the source directory to get datasets download and experiments reproducibil
 
 ### Acknowledgments
 We would like thank the authors of the the S4 model for releasing and maintaining the
-source code for [Structured State Space Models](https://github.com/HazyResearch/state-spaces). Similarly, our $SSSD^{S4}$ code builds on the implementation provided by [DiffWave](https://github.com/philsyn/DiffWave-Vocoder).
+source code for [Structured State Space Models](https://github.com/HazyResearch/state-spaces). Similarly, our proposed model code builds on the implementation provided by [DiffWave](https://github.com/philsyn/DiffWave-Vocoder).
