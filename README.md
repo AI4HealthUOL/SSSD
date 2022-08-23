@@ -1,7 +1,7 @@
 # Diffusion-based Time Series Imputation and Forecasting with Structured State Space Models
 
 
-This is the official repository for the paper [Diffusion-based Time Series Imputation and Forecasting with Structured State Space Models](https://.com). In combination with (conditional) diffusion and state-space models, we put forward diverse algorithms, particualary, we propose the generative model $SSSD^{S4}$, which is suited to capture long-term dependencies and demonstrates ***state-of-the-art*** results in time series across diverse missing scenarios and datasets. 
+This is the official repository for the paper [Diffusion-based Time Series Imputation and Forecasting with Structured State Space Models](https://arxiv.org/abs/2208.09399). In combination with (conditional) diffusion and state-space models, we put forward diverse algorithms, particualary, we propose the generative model $SSSD^{S4}$, which is suited to capture long-term dependencies and demonstrates ***state-of-the-art*** results in time series across diverse missing scenarios and datasets. 
 
 ## Datasets and experiments
 Visit the source directory to get datasets download and experiments reproducibility instructions.
