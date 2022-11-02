@@ -4,7 +4,7 @@
 This is the official repository for the paper [Diffusion-based Time Series Imputation and Forecasting with Structured State Space Models](https://arxiv.org/abs/2208.09399). In combination with (conditional) diffusion and state-space models, we put forward diverse algorithms, particualary, we propose the generative model $SSSD^{S4}$, which is suited to capture long-term dependencies and demonstrates ***state-of-the-art*** results in time series across diverse missing scenarios and datasets. 
 
 ## Datasets and experiments
-Visit the source directory to get datasets download and experiments reproducibility instructions.
+Visit the source directory to get datasets download and experiments reproducibility instructions. (here is an [example](https://github.com/AI4HealthUOL/SSSD/blob/main/docs/instructions/PEMS-Bay%20and%20METR-LA/feature_sample_process.ipynb) of the feature sampling approach for the datasets with large number of channels )
 
 
 ## Our proposed $SSSD^{S4}$ model architecture:
