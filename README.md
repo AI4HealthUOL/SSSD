@@ -7,7 +7,7 @@ This is the official repository for the paper [Diffusion-based Time Series Imput
 Visit the source directory to get datasets download and experiments reproducibility instructions. (here is an [example](https://github.com/AI4HealthUOL/SSSD/blob/main/docs/instructions/PEMS-Bay%20and%20METR-LA/feature_sample_process.ipynb) of the feature sampling approach for the datasets with large number of channels )
 
 
-## Our proposed $SSSD^{S4}$ model architecture:
+## Our proposed $`SSSD^{S4}`$ model architecture:
 ![alt text](https://github.com/AI4HealthUOL/SSSD/blob/main/reports/updated_architecture.png?style=centerme)
 
 ## $$ SSSD^{S4} $$ robustness on diverse scenarios:
