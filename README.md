@@ -30,8 +30,7 @@ Visit the source directory to get datasets download and experiments reproducibil
 ### Please cite our publication if you found our research to be helpful.
 
 ```bibtex
-@article{
-lopez alcaraz2022diffusionbased,
+@article{lopezalcaraz2022diffusionbased,
 title={Diffusion-based Time Series Imputation and Forecasting with Structured State Space Models},
 author={Juan Lopez Alcaraz and Nils Strodthoff},
 journal={Transactions on Machine Learning Research},
